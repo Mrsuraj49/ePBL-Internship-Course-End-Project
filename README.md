@@ -25,8 +25,6 @@ The project provides hands-on exposure to the practical backend VLSI design flow
 | Final Output | Routed layout and GDSII database |
 | Institution | Vardhaman College of Engineering |
 | Training Exposure | ASIC Design and Implementation Training |
-| Training Organization | ICFAI Tech, Hyderabad |
-| Training Partner | ChipXpert |
 | Project Coordinator | Dr. K. Narsimha Reddy |
 
 ---
@@ -1271,7 +1269,7 @@ Through this implementation, the project team gained practical understanding of 
 
 We express our sincere gratitude to **Dr. K. Narsimha Reddy**, Project Coordinator, for his guidance and support during the ePBL Internship Program.
 
-We also acknowledge **Vardhaman College of Engineering**, **ICFAI Tech, Hyderabad**, **ChipIN**, and **ChipXpert** for providing academic and training exposure related to ASIC design and physical implementation using industry-standard Synopsys tools.
+We also acknowledge **Vardhaman College of Engineering**, , Hyderabad**,for providing academic and training exposure related to ASIC design and physical implementation using industry-standard Synopsys tools.
 
 ---
 
