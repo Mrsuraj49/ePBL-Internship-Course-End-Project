@@ -1025,7 +1025,7 @@ reports/timing/
 
 ## Quality of Results Table
 
-Replace the placeholder entries below with the exact values from the final ICC2 reports.
+
 
 | Parameter | Final Value |
 |---|---|
