@@ -1,0 +1,56 @@
+Information: Updating design information... (UID-85)
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : full_adder
+Version: T-2022.03-SP5
+Date   : Fri Apr 10 07:32:01 2026
+****************************************
+
+Operating Conditions: ss0p75v125c   Library: saed32hvt_ss0p75v125c
+Wire Load Model Mode: enclosed
+
+  Startpoint: regB_reg[0]
+              (rising edge-triggered flip-flop clocked by my_clk)
+  Endpoint: SUM_reg[3] (rising edge-triggered flip-flop clocked by my_clk)
+  Path Group: my_clk
+  Path Type: max
+
+  Des/Clust/Port     Wire Load Model       Library
+  ------------------------------------------------
+  full_adder         ForQA                 saed32hvt_ss0p75v125c
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  clock my_clk (rise edge)                 0.00       0.00
+  clock network delay (ideal)              1.00       1.00
+  regB_reg[0]/CLK (DFFX1_HVT)              0.00       1.00 r
+  regB_reg[0]/Q (DFFX1_HVT)                2.14       3.14 f
+  U87/Y (OA21X1_HVT)                       0.62       3.76 f
+  U60/Y (IBUFFX4_HVT)                      0.32       4.08 r
+  U97/Y (NAND2X0_HVT)                      0.56       4.63 f
+  U92/Y (NBUFFX4_HVT)                      0.44       5.07 f
+  U98/Y (OR2X1_HVT)                        0.40       5.48 f
+  U90/Y (AND2X1_HVT)                       0.40       5.88 f
+  U88/Y (AO221X1_HVT)                      0.70       6.58 f
+  U49/Y (IBUFFX4_HVT)                      0.32       6.90 r
+  SUM_reg[3]/D (DFFX1_HVT)                 0.00       6.90 r
+  data arrival time                                   6.90
+
+  clock my_clk (rise edge)                 3.00       3.00
+  clock network delay (ideal)              1.00       4.00
+  clock uncertainty                       -0.15       3.85
+  SUM_reg[3]/CLK (DFFX1_HVT)               0.00       3.85 r
+  library setup time                      -1.13       2.72
+  data required time                                  2.72
+  -----------------------------------------------------------
+  data required time                                  2.72
+  data arrival time                                  -6.90
+  -----------------------------------------------------------
+  slack (VIOLATED)                                   -4.19
+
+
+1

@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : full_adder
+Version: T-2022.03-SP5
+Date   : Tue Apr 21 06:18:54 2026
+****************************************
+
+Library(s) Used:
+
+    saed32hvt_ss0p75v125c (File: /home/student/Downloads/rajesh/ref/DBs/saed32hvt_ss0p75v125c.db)
+
+Number of ports:                           15
+Number of nets:                            38
+Number of cells:                           27
+Number of combinational cells:             13
+Number of sequential cells:                14
+Number of macros/black boxes:               0
+Number of buf/inv:                          1
+Number of references:                       5
+
+Combinational area:                 48.033217
+Buf/Inv area:                        1.270720
+Noncombinational area:              92.508419
+Macro/Black Box area:                0.000000
+Net Interconnect area:               7.120243
+
+Total cell area:                   140.541636
+Total area:                        147.661879
+1
