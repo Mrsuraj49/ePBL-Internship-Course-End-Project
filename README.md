@@ -1208,52 +1208,6 @@ reports/
 gds/sequential_adder.gds
 ```
 
----
-
-# Repository Submission Checklist
-
-Before submitting the repository for ePBL Internship evaluation, verify that it contains:
-
-- [ ] Complete source code
-- [ ] RTL design
-- [ ] Gate-level netlist, where permitted
-- [ ] SDC constraints
-- [ ] ICC2 TCL scripts
-- [ ] Floorplan screenshots
-- [ ] Power-plan screenshots
-- [ ] Placement screenshots
-- [ ] CTS screenshots
-- [ ] Routing screenshots
-- [ ] Timing reports
-- [ ] Clock reports
-- [ ] Congestion reports
-- [ ] Physical verification reports
-- [ ] Final GDSII output, where sharing is permitted
-- [ ] Project Results and Analysis
-- [ ] Final project report in PDF format
-- [ ] Updated README file
-- [ ] Team and coordinator details
-- [ ] Correct GitHub repository link
-
-> Do not upload proprietary technology files, licensed standard-cell libraries, confidential netlists, or restricted training material to a public GitHub repository.
-
----
-
-# Important Repository Note
-
-Synopsys software, process-design kits, standard-cell libraries, technology files, and some training datasets may be proprietary.
-
-This repository should contain only material that the project team is authorized to share. Proprietary libraries and licensed EDA software are not included.
-
-Users must provide their own:
-
-- Synopsys ICC2 installation
-- Valid software license
-- Technology files
-- Standard-cell libraries
-- Legal access to required design kits
-
----
 
 # Conclusion
 
@@ -1269,7 +1223,7 @@ Through this implementation, the project team gained practical understanding of 
 
 We express our sincere gratitude to **Dr. K. Narsimha Reddy**, Project Coordinator, for his guidance and support during the ePBL Internship Program.
 
-We also acknowledge **Vardhaman College of Engineering**, , Hyderabad**,for providing academic and training exposure related to ASIC design and physical implementation using industry-standard Synopsys tools.
+We also acknowledge **Vardhaman College of Engineering**, **Hyderabad**,for providing academic and training exposure related to ASIC design and physical implementation using industry-standard Synopsys tools.
 
 ---
 
