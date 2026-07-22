@@ -33,10 +33,10 @@ The project provides hands-on exposure to the practical backend VLSI design flow
 
 | Roll Number | Student Name |  Course |
 |---|---|---|
-| 23881A04C0 | B. Suraj Kuila |  VLSI Design and Systems |
-| 23881A04A9 | B. Naradasu Srija |  VLSI Design and Systems |
-| 23881A04B3 | B. Patniti Vaishnavi |  VLSI Design and Systems |
-| 23881A04C3 | B. Tirunagari Akshay | VLSI Design and Systems |
+| 23881A04C0 | Suraj Kuila |  VLSI Design and Systems |
+| 23881A04A9 | Naradasu Srija |  VLSI Design and Systems |
+| 23881A04B3 | Patniti Vaishnavi |  VLSI Design and Systems |
+| 23881A04C3 | Tirunagari Akshay | VLSI Design and Systems |
 
 ---
 
