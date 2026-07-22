@@ -1,0 +1,30 @@
+[icc2-lic Sun Apr 19 23:55:19 2026] Command 'check_design' requires licenses
+[icc2-lic Sun Apr 19 23:55:19 2026] Sending authorization request for 'ICCompilerII'
+[icc2-lic Sun Apr 19 23:55:19 2026] Authorization request for 'ICCompilerII' failed (-5)
+[icc2-lic Sun Apr 19 23:55:19 2026] Sending authorization request for 'ICCompilerII-4'
+[icc2-lic Sun Apr 19 23:55:19 2026] Authorization request for 'ICCompilerII-4' failed (-5)
+[icc2-lic Sun Apr 19 23:55:19 2026] Sending authorization request for 'ICCompilerII-8'
+[icc2-lic Sun Apr 19 23:55:19 2026] Authorization request for 'ICCompilerII-8' succeeded
+[icc2-lic Sun Apr 19 23:55:19 2026] Sending authorization request for 'ICCompilerII-NX'
+[icc2-lic Sun Apr 19 23:55:19 2026] Authorization request for 'ICCompilerII-NX' succeeded
+[icc2-lic Sun Apr 19 23:55:19 2026] Attempting to check-out alternate set of keys directly with queueing
+[icc2-lic Sun Apr 19 23:55:19 2026] Sending count request for 'ICCompilerII-8' 
+[icc2-lic Sun Apr 19 23:55:19 2026] Count request for 'ICCompilerII-8' returned 0 
+[icc2-lic Sun Apr 19 23:55:19 2026] Sending check-out request for 'ICCompilerII-8' (1) with wait option
+[icc2-lic Sun Apr 19 23:55:20 2026] Check-out request for 'ICCompilerII-8' with wait option succeeded
+[icc2-lic Sun Apr 19 23:55:20 2026] Sending checkout check request for 'ICCompilerII-8' 
+[icc2-lic Sun Apr 19 23:55:20 2026] Checkout check request for 'ICCompilerII-8' returned 0 
+[icc2-lic Sun Apr 19 23:55:20 2026] Sending count request for 'ICCompilerII-8' 
+[icc2-lic Sun Apr 19 23:55:20 2026] Count request for 'ICCompilerII-8' returned 1 
+[icc2-lic Sun Apr 19 23:55:20 2026] Sending count request for 'ICCompilerII-NX' 
+[icc2-lic Sun Apr 19 23:55:20 2026] Count request for 'ICCompilerII-NX' returned 0 
+[icc2-lic Sun Apr 19 23:55:20 2026] Sending check-out request for 'ICCompilerII-NX' (1) with wait option
+[icc2-lic Sun Apr 19 23:55:20 2026] Check-out request for 'ICCompilerII-NX' with wait option succeeded
+[icc2-lic Sun Apr 19 23:55:20 2026] Sending checkout check request for 'ICCompilerII-NX' 
+[icc2-lic Sun Apr 19 23:55:20 2026] Checkout check request for 'ICCompilerII-NX' returned 0 
+[icc2-lic Sun Apr 19 23:55:20 2026] Sending count request for 'ICCompilerII-NX' 
+[icc2-lic Sun Apr 19 23:55:20 2026] Count request for 'ICCompilerII-NX' returned 1 
+[icc2-lic Sun Apr 19 23:55:20 2026] Check-out of alternate set of keys directly with queueing was successful
+Error: Current block is not defined. (DES-001)
+Error: 0
+      	Use error_info for more info. (CMD-013)
