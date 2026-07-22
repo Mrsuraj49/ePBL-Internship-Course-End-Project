@@ -31,12 +31,12 @@ The project provides hands-on exposure to the practical backend VLSI design flow
 
 ## Project Team
 
-| Roll Number | Student Name | Contact Number | Course |
-|---|---|---:|---|
-| 23881A04A9 | B. Naradasu Srija | 8688511516 | VLSI Design and Systems |
-| 23881A04B3 | B. Patniti Vaishnavi | 9346467603 | VLSI Design and Systems |
-| 23881A04C0 | B. Suraj Kuila | 7893897488 | VLSI Design and Systems |
-| 23881A04C3 | B. Tirunagari Akshay | 9182285127 | VLSI Design and Systems |
+| Roll Number | Student Name |  Course |
+|---|---|---|
+| 23881A04C0 | B. Suraj Kuila |  VLSI Design and Systems |
+| 23881A04A9 | B. Naradasu Srija |  VLSI Design and Systems |
+| 23881A04B3 | B. Patniti Vaishnavi |  VLSI Design and Systems |
+| 23881A04C3 | B. Tirunagari Akshay | VLSI Design and Systems |
 
 ---
 
